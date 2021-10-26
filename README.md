@@ -3,4 +3,4 @@ A group chat using Java sockets, which is a server with multiple clients using J
 
 ---------------------------------------------------------------------------------------------------------------
 
-![](screenshot_img/capture.JPG)
+![](screenshot_img/Capture.JPG)
